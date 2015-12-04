@@ -28,3 +28,5 @@ initializers
 unordered
 Datalog
 unary
+cardinality
+cardinalities
