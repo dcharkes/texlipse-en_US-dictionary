@@ -39,10 +39,12 @@ cardinalities
 computable
 bidirectionality
 incrementality
+incrementalized
 dereference
 dereferencing
 composable
 inlining
+inlined
 tunable
 benchmarked
 observables
